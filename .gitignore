@@ -12,6 +12,12 @@
 *.map
 *.exp
 
+# Folders
+Drivers/
+Objects/
+RTE/
+DebugConfig/
+
 # Precompiled Headers
 *.gch
 *.pch
@@ -19,6 +25,7 @@
 # Libraries
 *.lib
 *.a
+*.s
 *.la
 *.lo
 
